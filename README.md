@@ -1,5 +1,10 @@
 ### Hi there 👋
+-  🔭 I’m currently working on HASHh Automation Pvt Limited
+-  🌱 I’m currently learning embedded
 
+### 📫 Get in touch:
+- 💬 Mail:     gowtham_l@outlook.com
+- 👯 Linkedin: https://www.linkedin.com/in/gowtham-l-464919169/
 <!--
 **Gowtham-L/Gowtham-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
