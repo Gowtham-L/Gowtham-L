@@ -1,5 +1,5 @@
 ### Hi there 👋
--  🔭 I’m currently working on HASHh Automation Pvt Limited
+-  🧑‍💻 I’m currently working on HASHh Automation Pvt Limited
 -  🌱 I’m currently learning embedded
 -  💬 Ask me about embedded and IoT
 
