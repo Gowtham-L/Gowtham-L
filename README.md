@@ -1,6 +1,5 @@
 ### Hi, I'm Gowtham 👋
--  🧑‍💻 I’m currently working on HASHh Automation Pvt Limited
--  🌱 I’m currently learning embedded
+-  👯 I’m looking to collaborate on Embedded Firmware Developement
 -  💬 Ask me about embedded and IoT
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -32,7 +31,7 @@
 ----
 Credit: [gowthaml](https://github.com/Gowtham-L)
 
-Last Edited on: 12/05/2022
+Last Edited on: 21/09/2025
 <!--
 **Gowtham-L/Gowtham-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
