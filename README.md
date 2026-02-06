@@ -1,5 +1,5 @@
 ### Hi, I'm Gowtham 👋
--  👯 I’m looking to collaborate on Opsensource Tools
+-  👯 I’m looking to collaborate on Open-Source Tools
 -  💬 Ask me about embedded, IoT and DevOps
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
