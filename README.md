@@ -1,6 +1,6 @@
 ### Hi, I'm Gowtham 👋
--  👯 I’m looking to collaborate on Embedded Firmware Developement
--  💬 Ask me about embedded and IoT
+-  👯 I’m looking to collaborate on Opsensource Tools
+-  💬 Ask me about embedded, IoT and DevOps
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
